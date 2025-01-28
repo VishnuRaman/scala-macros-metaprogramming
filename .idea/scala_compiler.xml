@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="scala-macros-metaprogramming,scala-macros-metaprogramming2,scala-macros-metaprogramming_5034" />
+  </component>
+</project>
